@@ -1,10 +1,10 @@
-const danish = {
+const thailand = {
   name: "Thailand",
   native_name: "Thailand",
   code: "th",
 };
 
-const da = {
+const th = {
   translation: {
     report_bug: "Rapportér en fejl",
     import: "Importér",
