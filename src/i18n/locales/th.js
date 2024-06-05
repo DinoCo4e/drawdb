@@ -8,7 +8,7 @@ const th = {
   translation: {
     report_bug: "Rapportér en fejl",
     import: "Importér",
-    file: "Fil",
+    file: "ไฟล์",
     new: "Ny",
     new_window: "Nyt vindue",
     open: "Åben",
